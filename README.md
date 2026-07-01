@@ -1,49 +1,60 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:22c55e,100:14b8a6&text=Ojaswi%20Makode&fontSize=42&fontColor=ffffff&fontAlignY=45" />
 
-AI & Data Science Student
-Turning data and ideas into working, intelligent systems
+B.Tech in Artificial Intelligence & Data Science — P.R. Pote College of Engineering, Amravati
+CGPA: 9.22/10
 
 ---
 
 ## ▓ About
 
-I'm an **AI & Data Science** student who enjoys building things that actually work end to end —
-not just notebooks, but real prototypes people can use.
+I'm an AI & Data Science undergrad who likes building full systems — not just models in a notebook.
+My work spans AI-powered apps, computer vision, and full-stack web development.
 
-I care about:
-
-- clear, practical solutions over over-engineered ones
-- learning by shipping — every project teaches something new
-- clean code that's easy to come back to later
+- 🎓 B.Tech AI & DS, 2023–Present (CGPA 9.22/10)
+- 🔭 Currently building **HealthNova**, an AI health-assistant platform
+- 🌱 Exploring LangChain, OCR pipelines, and applied GenAI
+- 🏅 NPTEL Python Programming — Top 25% nationally
 
 ---
 
 ## ▓ Core Stack
 
-![](https://skillicons.dev/icons?i=python,cpp,js,html,css,git&theme=dark)
+![](https://skillicons.dev/icons?i=python,java,c,cpp,react,html,css,js,git,github,vscode,mysql,sqlite&theme=dark)
 
-Machine Learning • NLP • Streamlit • Generative AI (Gemini) • Web Development
+**ML/AI:** Pandas · NumPy · OpenCV · OpenAI API · Google Gemini API · LangChain
+**Concepts:** OOP · Data Structures & Algorithms · REST APIs · Agile/Scrum · SDLC
 
 ---
 
 ## ▓ Selected Work
 
-**Advanced-Summarizer**
-AI-driven text summarizer built with Google Gemini AI and Streamlit
+**HealthNova — AI Health Assistant Platform** *(Ongoing, Jan 2026–Present)*
+Full-stack AI health app with chatbot functionality (OpenAI/Gemini + LangChain) and OCR (Tesseract, PyMuPDF) to extract structured data from multi-page medical reports
 
-**TrafiQ**
-Smart traffic-focused web project
+**PlantAI — Plant Disease Detection System** *(Jul–Sep 2025)*
+ML-based plant disease detection from image data, served through a Flask web interface
 
-**AgriTrade**
-Platform concept for agricultural trade
+**AI Text Summarizer** *(Feb–May 2025)*
+Summarization tool for long-form text using external APIs
 
-**HealthEcho**
-Health-tech web template
+**Personal Portfolio Website** *(Nov 2025–Jan 2026)*
+Responsive React.js portfolio, optimized for desktop and mobile
 
-**Vox-Translation-Pro**
-Voice and translation utility
+---
 
-More systems in progress.
+## ▓ Experience
+
+**Web Development Intern** — CodSoft *(Jan–Feb 2026)*
+Built responsive UI components, improved usability across web apps
+
+**Android Developer Intern** — AICTE EduSkills (Google-supported) *(Jul–Sep 2024)*
+Built Kotlin Android apps with API integration and performance optimization
+
+---
+
+## ▓ Certifications
+
+NPTEL Python Programming (Top 25%) · NCET 2025 Qualified · Simplilearn AI & Data Analytics · HP LIFE AI & Cybersecurity · Deloitte (Forage) Technology & Solutions Architecture · NxtWave Static Website Development
 
 ---
 
@@ -56,7 +67,6 @@ More systems in progress.
 ## ▓ Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ojaswi-makode-517055291/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/th.oji/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ojaswimakode7@gmail.com)
 
 ---
